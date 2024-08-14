@@ -20,7 +20,7 @@ const BLOG = {
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
   socialLink: 'https://twitter.com/L4Walk',
   seo: {
-    keywords: ['Blog', 'Website', 'Notion', 'AI', 'GenAI'，'卢江洋','溪河','L4Walk','人生不过Bug一场','生成式人工智能','kimi','豆包'],
+    keywords: ['Blog', 'Website', 'Notion', 'AI', 'GenAI', '卢江洋', '溪河', 'L4Walk', '人生不过Bug一场', '生成式人工智能', 'kimi', '豆包', 'LLM', '大模型'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
