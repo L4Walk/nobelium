@@ -1,7 +1,7 @@
 const BLOG = {
   title: '人生不过Bug一场',
   author: '溪河',
-  email: 'l4Walk@chuheng.tech',
+  email: 'l4walk@chuheng.tech',
   link: 'https://www.ljy-lu.space/',
   description: '溪河的杂货铺',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
